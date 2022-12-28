@@ -1,7 +1,19 @@
 {
-    "basic info": [
-        "test",
-        "lucas",
-        "Andy"
-    ]
+    "bash command": {
+        "basic info": "the note I took while coding with zsh/bash",
+        "command": {
+            "command name": [
+                "rm",
+                "cp",
+                "ls",
+                "find"
+            ],
+            "description": [
+                "remove file",
+                "copy file",
+                "show files",
+                "find certain files"
+            ]
+        }
+    }
 }
