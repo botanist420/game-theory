@@ -15,5 +15,15 @@
                 "find certain files"
             ]
         }
+    },
+    "python new learnt method": {
+        "module name": [
+            "os",
+            "json"
+        ],
+        "module new insight": [
+            "os.path.exists()",
+            "json.dump(dict, file, indent=4)"
+        ]
     }
 }
