@@ -42,4 +42,4 @@ def get_player_info(full_name: str = "Stephen Curry") -> pd.DataFrame:
 if __name__ == "__main__":
     # df = get_player_info()
     # print(df.head())
-    get_team_id()
+    print(get_team_id())
